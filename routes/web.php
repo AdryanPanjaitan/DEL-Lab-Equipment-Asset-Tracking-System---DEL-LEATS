@@ -6,4 +6,3 @@ use app\http\controller\LoanController;
 
 Route::get('/', fn () => redirect()->route('equipments.index'));
 
-Route::
